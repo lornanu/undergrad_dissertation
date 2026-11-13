@@ -1,4 +1,4 @@
-# Undergraduate Dissertation Code
+# Undergraduate Dissertation
 data analysis in R for my undergraduate Psychology dissertation project.
 
 The study investigated whether fear of negative evaluation, self-objectification, enjoyment of sexualisation, and social media use could predict self-sexualisation in women. 
