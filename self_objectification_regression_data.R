@@ -1,6 +1,5 @@
 library(BayesFactor)
 library(tidyverse)
-library(dplyr)
 
 DISS_DATA <- read.csv("./2.csv")
 
