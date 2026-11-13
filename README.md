@@ -8,13 +8,15 @@ Data was collected using a survey containing 5 empirically validated scales.
 507 participants. Participants who completed less than 75% of the survey, and those who did not identify as a woman were removed, leaving a total of 372 participants (Mean= 42.6, SD= 16.0).
 
 ## Variables
+**IVs:**
 - Self-objectification Scale (SOBBS; Lindner and Tantleff-Dunn, 2017)
 - Active social media engagement (PAUM; Gerson et al., 2017)
 - Passive social media engagement (PAUM; Gerson et al., 2017)
 - Enjoyment of sexualisation (ESS; Liss et al., 2011)
-- Fear of negative evaluation (BFNE-S; Rodebaugh, 2004)
-DV:
--Self-sexualisation (SBBQ-W; Smolak et al., 2014)
+- Fear of negative evaluation (BFNE-S; Rodebaugh, 2004)\
+
+**DV:**
+- Self-sexualisation (SBBQ-W; Smolak et al., 2014)
 
 
 ## Summary of main findings
